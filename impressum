@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impressum – Mission Planner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #222;
+            background: #fff;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            margin-top: 30px;
+        }
+
+        a {
+            color: #0645ad;
+        }
+
+        .footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #ccc;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Impressum</h1>
+
+    <h2>Angaben gemäß § 5 DDG</h2>
+
+    <p>
+        <strong>Fabian Becker</strong><br>
+        Breisgauer Str. 5<br>
+        79110 Freiburg im Breisgau<br>
+        Deutschland
+    </p>
+
+    <h2>Kontakt</h2>
+
+    <p>
+        E-Mail:
+        <a href="mailto:fabian.p.a.becker@gmail.com">fabian.p.a.becker@gmail.com</a>
+    </p>
+
+    <h2>Verantwortlich für den Inhalt</h2>
+
+    <p>
+ 	Fabian Becker<br>
+	Breisgauer Str. 5<br>
+        79110 Freiburg im Breisgau<br>
+        Deutschland
+    </p>
+
+    <h2>Hinweis</h2>
+
+    <p>
+        Dieses Impressum gilt für die mobile Anwendung
+        <strong>Mission Planner</strong> sowie die zugehörigen
+        Online-Angebote.
+    </p>
+
+    <div class="footer">
+        <p>
+            <a href="privacy.html">Datenschutzerklärung</a>
+        </p>
+    </div>
+
+</body>
+</html>
